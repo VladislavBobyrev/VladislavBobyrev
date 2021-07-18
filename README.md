@@ -13,7 +13,7 @@
 <h2 align='center' > PURPOSE ⬇️  </h2>
 <!-- <div align='center' ><img alt="Sass" src="https://tgram.ru/wiki/stickers/img/ResistanceDog/gif/19.gif" /></div> -->
 <h3 align='center'>
- ✍🏻 Write clean code  🏫 learn WebGL 🧠 Become a professional in my business  👽 Work with experienced colleagues
+ ✍🏻 Write clean code  🏫 learn WebGPU 🧠 Become a professional in my business  👽 Work with experienced colleagues
  </h3>
  
  ##
