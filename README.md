@@ -1,4 +1,4 @@
-<h1 align='center' >  I AM VLADISLAV BOBYREV</h1>
+<h1 align='center' >  I AM  <img width="20" height="20" title="Vuejs" alt="vuejs" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"/>LADISLAV BOBYREV</h1>
 <div align='center' ><img alt="Sass" src="https://tgram.ru/wiki/stickers/img/ResistanceDog/gif/13.gif" /></div>
 <div align='center'>
 <br>
@@ -13,7 +13,8 @@
 <h2 align='center' > PURPOSE ⬇️  </h2>
 <!-- <div align='center' ><img alt="Sass" src="https://tgram.ru/wiki/stickers/img/ResistanceDog/gif/19.gif" /></div> -->
 <h3 align='center'>
- ✍🏻 Write clean code  🏫 learn THREE JS 🧠 Become a professional in my business  👽 Work with experienced colleagues
+ <img width="20" height="20" title="Vuejs" alt="vuejs" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"/> Write clean code  🏫 learn THREE JS 
+  🧠 Become a professional in my business  👽 Work with experienced colleagues <img width="30" height="30" title="Docker" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
  </h3>
  
  ##
@@ -33,9 +34,10 @@
 <!-- <div align='center' ><img alt="Sass" src="https://tgram.ru/wiki/stickers/img/ResistanceDog/gif/21.gif" /></div> -->
 <div align='center'> 
 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapajyoti-bose-429a601a0/)
+
 [![TELEGRAMM](https://img.shields.io/badge/telegramm-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://t.me/VladislavBobyrev)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vladislav_bobyrev_/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/VladislavBobyrev)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.ru/bobyrev.vladislav@mail.ru)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vladislav_bobyrev_/)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapajyoti-bose-429a601a0/)
  </div>
