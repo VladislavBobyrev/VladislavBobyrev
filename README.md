@@ -22,12 +22,32 @@
 <a href="https://github.com/VladislavBobyrev/"><img alt="https://github.com/VladislavBobyrev/" src="https://activity-graph.herokuapp.com/graph?username=VladislavBobyrev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br>
-<div align='center' ><img alt="Sass" src="https://tgram.ru/wiki/stickers/img/ResistanceDog/gif/12.gif" /></div>
+
 
 <h2 align='center' > MY PROJECT </h2>
+<div align='center' >Snake in canvas 2D</div>
 
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/Snake/blob/main/SOozNY76K8.gif)
 
+<div align='center' >Adaptive layout</div>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/Grid-crossbal-test/blob/main/preview.gif)
+
+<div align='center' >Grid and Flex</div>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/Love-beauty-NextJS/blob/main/wnV1TXgNqf.gif)
+
+
+<div align='center' >React TO DO</div>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/React/blob/main/animation.gif)
+
+
+<div align='center' >Extension brousers</div>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/extension-download-commitList-github/blob/main/manifest.gif)
+
+<div align='center' ><img alt="Sass" src="https://tgram.ru/wiki/stickers/img/ResistanceDog/gif/12.gif" /></div>
 <br>
 
 <h2 align='center' > CONTACTS </h2>
