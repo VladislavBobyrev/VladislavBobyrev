@@ -1,5 +1,9 @@
-<h1 align='center' >  I AM  <img width="20" height="20" title="Vuejs" alt="vuejs" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"/>LADISLAV BOBYREV</h1>
+<h1 align='center' >  I AM  <img width="20" height="20" title="Vuejs" alt="vuejs" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"/>LADISLAV BOBYREV FRONTEND DEVELOPER</h1>
 <div align='center' ><img alt="Sass" src="https://tgram.ru/wiki/stickers/img/ResistanceDog/gif/13.gif" /></div>
+
+
+
+<h2 align='center' > MY PROJECT </h2>
 <div align='center'>
 <br>
   
@@ -9,6 +13,36 @@
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />    
 </div>
+<div align='center' >Snake in canvas 2D</div>
+<br>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/Snake/blob/main/SOozNY76K8.gif)
+
+<div align='center' >Adaptive layout</div>
+<br>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/Grid-crossbal-test/blob/main/preview.gif)
+
+<div align='center' >Grid and Flex</div>
+<br>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/Love-beauty-NextJS/blob/main/wnV1TXgNqf.gif)
+
+
+<div align='center' >React TO DO</div>
+<br>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/React/blob/main/animation.gif)
+
+
+<div align='center' >Extension brousers</div>
+<br>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/extension-download-commitList-github/blob/main/manifest.gif)
+
+<div align='center' ><img alt="Sass" src="https://tgram.ru/wiki/stickers/img/ResistanceDog/gif/12.gif" /></div>
+<br>
+
 <br>
 <h2 align='center' > PURPOSE ⬇️  </h2>
 <!-- <div align='center' ><img alt="Sass" src="https://tgram.ru/wiki/stickers/img/ResistanceDog/gif/19.gif" /></div> -->
@@ -17,39 +51,11 @@
   🧠 Become a professional in my business  👽 Work with experienced colleagues <img width="30" height="30" title="Docker" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
  </h3>
  
- ##
+  ##
  
 <a href="https://github.com/VladislavBobyrev/"><img alt="https://github.com/VladislavBobyrev/" src="https://activity-graph.herokuapp.com/graph?username=VladislavBobyrev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br>
-
-
-<h2 align='center' > MY PROJECT </h2>
-<div align='center' >Snake in canvas 2D</div>
-
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/Snake/blob/main/SOozNY76K8.gif)
-
-<div align='center' >Adaptive layout</div>
-
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/Grid-crossbal-test/blob/main/preview.gif)
-
-<div align='center' >Grid and Flex</div>
-
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/Love-beauty-NextJS/blob/main/wnV1TXgNqf.gif)
-
-
-<div align='center' >React TO DO</div>
-
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/React/blob/main/animation.gif)
-
-
-<div align='center' >Extension brousers</div>
-
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/extension-download-commitList-github/blob/main/manifest.gif)
-
-<div align='center' ><img alt="Sass" src="https://tgram.ru/wiki/stickers/img/ResistanceDog/gif/12.gif" /></div>
-<br>
-
 <h2 align='center' > CONTACTS </h2>
 <!-- <div align='center' ><img alt="Sass" src="https://tgram.ru/wiki/stickers/img/ResistanceDog/gif/21.gif" /></div> -->
 <div align='center'> 
