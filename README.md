@@ -28,6 +28,9 @@
 
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/Love-beauty-NextJS/blob/main/wnV1TXgNqf.gif)
 
+<div  align="center">Vue3  Notes</div >
+ 
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue3-notes/blob/main/vueNotes.gif)
 
 <div align='center' >React TO DO</div>
 <br>
