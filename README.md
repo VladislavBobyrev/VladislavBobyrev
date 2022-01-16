@@ -38,7 +38,7 @@
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/React/blob/main/animation.gif)
 
 
-<div align='center' >Extension brousers</div>
+<div align='center' >Extension for browsers</div>
 <br>
 
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/extension-download-commitList-github/blob/main/manifest.gif)
