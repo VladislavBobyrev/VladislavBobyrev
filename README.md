@@ -13,32 +13,37 @@
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />    
 </div>
-<div align='center' >Snake in canvas 2D</div>
+
+<h1  align="center">VUE 3 ALERT</h1> 
+<div align='center' >
 <br>
+  
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-alert/blob/main/alert.gif)
+</div>  
 
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/Snake/blob/main/SOozNY76K8.gif)
-
-<div align='center' >Adaptive layout</div>
+<h1  align="center">Snake in canvas 2D</h1> 
+<div align='center' >
 <br>
 
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/Grid-crossbal-test/blob/main/preview.gif)
+</div>
 
-<div align='center' >Grid and Flex</div>
+<h1  align="center">Grid and Flex</h1> 
+
 <br>
 
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/Love-beauty-NextJS/blob/main/wnV1TXgNqf.gif)
 
-<div  align="center">Vue3  Notes</div >
+<h1  align="center">Vue3  Notes</h1> 
  
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue3-notes/blob/main/vueNotes.gif)
 
-<div align='center' >React TO DO</div>
+<h1  align="center">React TO DO</h1> 
 <br>
 
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/React/blob/main/animation.gif)
 
-
-<div align='center' >Extension for browsers</div>
+<h1  align="center">Extension for browsers</h1>
 <br>
 
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/extension-download-commitList-github/blob/main/manifest.gif)
