@@ -14,6 +14,15 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />    
 </div>
 
+<h1  align="center">MORPHING SVG</h1> 
+
+<div align='center' >
+<br>
+  
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/morphing-svg-animejs/blob/main/morph.gif)
+</div> 
+
+
 <h1  align="center">VUE 3 ALERT</h1> 
 <div align='center' >
 <br>
@@ -21,12 +30,6 @@
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-alert/blob/main/alert.gif)
 </div>  
 
-<h1  align="center">Snake in canvas 2D</h1> 
-<div align='center' >
-<br>
-
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/Grid-crossbal-test/blob/main/preview.gif)
-</div>
 
 <h1  align="center">Grid and Flex</h1> 
 
