@@ -1,5 +1,5 @@
-<h1 align='center' >  I AM  <img width="20" height="20" title="Vuejs" alt="vuejs" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"/>LADISLAV BOBYREV FRONTEND DEVELOPER</h1>
-<div align='center' ><img alt="Sass" src="https://tgram.ru/wiki/stickers/img/ResistanceDog/gif/13.gif" /></div>
+<h1 align='center' >  I AM  <img width="20" height="20" title="Vuejs" alt="vuejs" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"/>LADISLAV BOBYREV </h1>
+<!-- <div align='center' ><img alt="Sass" src="https://tgram.ru/wiki/stickers/img/ResistanceDog/gif/13.gif" /></div>* -->
 
 
 
