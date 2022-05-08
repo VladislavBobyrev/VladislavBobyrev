@@ -27,6 +27,13 @@
 </div> 
 
 
+
+<h2  align="center">TYPESCRIPT LIKE USERS</h2> 
+
+<br>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-typestript-users/blob/main/readme.gif)
+
 <h2  align="center">VUE TASK MENGER</h2> 
 
 <br>
