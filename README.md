@@ -18,6 +18,16 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />    
 </div>
 <!-- <h1 align='center' > MY PROJECTS </h1> -->
+
+
+<h2  align="center">VUE LOGIN FORM</h2> 
+
+<div align='center' >
+<br>
+  
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-login/blob/main/readme.gif)
+</div> 
+
 <h2  align="center">MORPHING SVG</h2> 
 
 <div align='center' >
@@ -40,7 +50,7 @@
 
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-task-manege/blob/main/readme.gif)
 
-<h2  align="center">VUE 3 ALERT</h2> 
+<!-- <h2  align="center">VUE 3 ALERT</h2> 
 <div align='center' >
 <br>
   
@@ -50,7 +60,7 @@
 <div align='center' ><img alt="Sass" src="https://tgram.ru/wiki/stickers/img/ResistanceDog/gif/12.gif" /></div>
 <br>
 
-<br>
+<br> -->
   ##
  
 <a href="https://github.com/VladislavBobyrev/"><img alt="https://github.com/VladislavBobyrev/" src="https://activity-graph.herokuapp.com/graph?username=VladislavBobyrev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
