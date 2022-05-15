@@ -20,6 +20,14 @@
 <!-- <h1 align='center' > MY PROJECTS </h1> -->
 
 
+<h2  align="center">VUE ONLINE BANK</h2> 
+
+<div align='center' >
+<br>
+  
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-online-bank/blob/main/readme.gif)
+</div> 
+
 <h2  align="center">VUE LOGIN FORM</h2> 
 
 <div align='center' >
