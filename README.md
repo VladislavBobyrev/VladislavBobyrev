@@ -19,6 +19,14 @@
 </div>
 <!-- <h1 align='center' > MY PROJECTS </h1> -->
 
+<h2  align="center">SEARCH CUSTOM</h2> 
+
+<div align='center' >
+<br>
+  
+![Lax 2.0 Gif]( https://github.com/VladislavBobyrev/search-custom/blob/main/README/readme.gif)
+
+</div>
 
 <h2  align="center">VUE ONLINE BANK</h2> 
 
