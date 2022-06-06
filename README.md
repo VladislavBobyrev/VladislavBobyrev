@@ -18,6 +18,13 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />    
 </div>
 <!-- <h1 align='center' > MY PROJECTS </h1> -->
+<h2  align="center">ANIMATIONS + SVG FILTER</h2> 
+
+<div align='center' >
+<br>
+  
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/live-ru/blob/main/README/readme.gif)
+</div> 
 
 <h2  align="center">SEARCH CUSTOM</h2> 
 
