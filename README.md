@@ -18,6 +18,13 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />    
 </div>
 <!-- <h1 align='center' > MY PROJECTS </h1> -->
+
+<h2  align="center">CSS CARD BACKDROP</h2> 
+
+<br>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/card-backdrop/blob/main/README/readme.gif)
+
 <h2  align="center">ANIMATIONS + SVG FILTER</h2> 
 
 <div align='center' >
@@ -69,14 +76,13 @@
 </div> 
 
 
-
 <h2  align="center">TYPESCRIPT LIKE USERS</h2> 
 
 <br>
 
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-typestript-users/blob/main/readme.gif)
 
-<h2  align="center">VUE TASK MENGER</h2> 
+<h2  align="center">VUE TASCS</h2> 
 
 <br>
 
