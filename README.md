@@ -56,7 +56,15 @@
 <div align='center' >
 <br>
   
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/colors-themes/blob/main/readme.gif))
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/colors-themes/blob/main/readme.gif)
+</div> 
+
+<h2  align="center">SEARCH SCALE</h2> 
+
+<div align='center' >
+<br>
+  
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/search-scale/blob/main/README/readme.gif)
 </div> 
 
 <h2  align="center">VUE LOGIN FORM</h2> 
