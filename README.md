@@ -82,6 +82,13 @@
 
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-typestript-users/blob/main/readme.gif)
 
+
+<h2  align="center">LOADER GRADIENT</h2> 
+
+<br>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/cercle-gradient/blob/main/readme.gif)
+
 <h2  align="center">VUE TASCS</h2> 
 
 <br>
