@@ -75,6 +75,14 @@
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-login/blob/main/readme.gif)
 </div> 
 
+<h2  align="center">FILTER IMAGE</h2> 
+
+<div align='center' >
+<br>
+  
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/box-filter-image/blob/main/README/readme.gif)
+</div> 
+
 <h2  align="center">MORPHING SVG</h2> 
 
 <div align='center' >
