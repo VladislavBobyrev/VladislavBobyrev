@@ -103,12 +103,18 @@
 
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-task-manege/blob/main/readme.gif)
 
+
+<h2  align="center">MAGIC SCROLL</h2> 
+
+<br>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/scroll-magic/blob/main/README/readme.gif)
+
 <h2  align="center">SVG FILTERS</h2> 
 
 <br>
 
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/svg-filters/blob/main/REAMDE/readme.gif)
-
 
 <!-- <h2  align="center">VUE 3 ALERT</h2> 
 <div align='center' >
