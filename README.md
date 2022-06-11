@@ -18,19 +18,18 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />    
 </div>
 <!-- <h1 align='center' > MY PROJECTS </h1> -->
-
-<h2  align="center">CSS CARD BACKDROP</h2> 
+<h2  align="center">MAGIC SCROLL</h2> 
 
 <br>
 
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/card-backdrop/blob/main/README/readme.gif)
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/scroll-magic/blob/main/README/readme.gif)
 
-<h2  align="center">ANIMATIONS + SVG FILTER</h2> 
+<h2  align="center">VUE ONLINE BANK</h2> 
 
 <div align='center' >
 <br>
   
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/live-ru/blob/main/README/readme.gif)
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-online-bank/blob/main/readme.gif)
 </div> 
 
 <h2  align="center">SEARCH CUSTOM</h2> 
@@ -42,45 +41,20 @@
 
 </div>
 
-<h2  align="center">VUE ONLINE BANK</h2> 
+
+<h2  align="center">LOADER GRADIENT</h2> 
+
+<br>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/cercle-gradient/blob/main/readme.gif)
+
+
+<h2  align="center">ANIMATIONS + SVG FILTER</h2> 
 
 <div align='center' >
 <br>
   
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-online-bank/blob/main/readme.gif)
-</div> 
-
-
-<h2  align="center">STYLE THEME</h2> 
-
-<div align='center' >
-<br>
-  
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/colors-themes/blob/main/readme.gif)
-</div> 
-
-<h2  align="center">SEARCH SCALE</h2> 
-
-<div align='center' >
-<br>
-  
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/search-scale/blob/main/README/readme.gif)
-</div> 
-
-<h2  align="center">VUE LOGIN FORM</h2> 
-
-<div align='center' >
-<br>
-  
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-login/blob/main/readme.gif)
-</div> 
-
-<h2  align="center">FILTER IMAGE</h2> 
-
-<div align='center' >
-<br>
-  
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/box-filter-image/blob/main/README/readme.gif)
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/live-ru/blob/main/README/readme.gif)
 </div> 
 
 <h2  align="center">MORPHING SVG</h2> 
@@ -98,12 +72,21 @@
 
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-typestript-users/blob/main/readme.gif)
 
+<h2  align="center">SEARCH SCALE</h2> 
 
-<h2  align="center">LOADER GRADIENT</h2> 
-
+<div align='center' >
 <br>
+  
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/search-scale/blob/main/README/readme.gif)
+</div> 
 
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/cercle-gradient/blob/main/readme.gif)
+<h2  align="center">VUE LOGIN FORM</h2> 
+
+<div align='center' >
+<br>
+  
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-login/blob/main/readme.gif)
+</div> 
 
 <h2  align="center">VUE TASCS</h2> 
 
@@ -111,18 +94,31 @@
 
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-task-manege/blob/main/readme.gif)
 
+<h2  align="center">STYLE THEME</h2> 
 
-<h2  align="center">MAGIC SCROLL</h2> 
+<div align='center' >
+<br>
+  
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/colors-themes/blob/main/readme.gif)
+</div> 
+
+<h2  align="center">BUTTON SHADOW LIGHT</h2> 
 
 <br>
 
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/scroll-magic/blob/main/README/readme.gif)
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/button-shadow-light/blob/main/README/readme.gif)
 
 <h2  align="center">SVG FILTERS</h2> 
 
 <br>
 
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/svg-filters/blob/main/REAMDE/readme.gif)
+
+<h2  align="center">CSS CARD BACKDROP</h2> 
+
+<br>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/card-backdrop/blob/main/README/readme.gif)
 
 <!-- <h2  align="center">VUE 3 ALERT</h2> 
 <div align='center' >
