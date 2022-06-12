@@ -18,6 +18,21 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />    
 </div>
 <!-- <h1 align='center' > MY PROJECTS </h1> -->
+<h2  align="center">BACKGROUND GRADIENT ANIMATE</h2> 
+
+<div align='center' >
+<br>
+  
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/background-gradient-amimate/blob/main/README/readme.gif)
+
+</div>
+
+<h2  align="center">TYPESCRIPT LIKE USERS</h2> 
+
+<br>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-typestript-users/blob/main/readme.gif)
+
 <h2  align="center">MAGIC SCROLL</h2> 
 
 <br>
@@ -64,13 +79,6 @@
   
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/morphing-svg-animejs/blob/main/morph.gif)
 </div> 
-
-
-<h2  align="center">TYPESCRIPT LIKE USERS</h2> 
-
-<br>
-
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-typestript-users/blob/main/readme.gif)
 
 <h2  align="center">SEARCH SCALE</h2> 
 
