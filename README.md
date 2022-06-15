@@ -9,15 +9,61 @@
  </h3>
  
 
-<div align='center'>
+<!-- <div align='center'>
   
   [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.org)  [<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />](https://npmjs.com) [<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  [<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />](https://prettier.io/) [<img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />](https://eslint.org/) [<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />](https://code.visualstudio.com/)
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />    
-</div>
-<!-- <h1 align='center' > MY PROJECTS </h1> -->
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+</div> -->
+ <div align='center'>
+ 
+[<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+ </div>
+ <div align='center'>
+<!-- 		 <h3>OS</h3> -->
+			<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF" alt="Windows" />
+			<img src="https://img.shields.io/badge/-Mac-999999?style=for-the-badge&logo=apple&logoColor=FFFFFF" alt="Apple" />
+<!-- 			<img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=FFFFFF" alt="VirtualBox" /> -->
+	</div>
+<div align='center'>
+<!--  <h3>Frontend</h3> -->
+ <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF" alt="TypeScript" />
+ <img src="https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=FFFFFF" alt="Chart.js" />
+ <img src="https://img.shields.io/badge/-Vue-3FB280?style=for-the-badge&logo=Vue.js&logoColor=FFFFFF" alt="Vuejs" />
+ <img src="https://img.shields.io/badge/-Vuex-3FB280?style=for-the-badge&logo=Vuex&logoColor=FFFFFF" alt="Vuex" />
+ <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=333333" alt="Firebase" />
+ </div>  
+   
+<!--  <div align='center'>
+  <h3>Backend</h3>
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=333333" alt="Firebase" />
+ </div>  -->
+ 
+ <div align='center'>
+<!--  <h3>Project configuration</h3> -->
+   <img src="https://img.shields.io/badge/-Prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=FFFFFF" alt="Prettier" />
+			<img src="https://img.shields.io/badge/-EditorConfig-333333?style=for-the-badge&logo=EditorConfig&logoColor=FEFEFE" alt="EditorConfig" />
+			<img src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=FFFFFF" alt="ESLint" />
+			<img src="https://img.shields.io/badge/-babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000000" alt="Babel" />
+<!-- 			<img src="https://img.shields.io/badge/-stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=FFFFFF" alt="Stylelint" /> -->
+			<img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=333333" alt="Webpack" />
+ </div>
+ 
+ <div align='center'>
+<!-- 		 <h3>Browsers</h3> -->
+<!-- 			<img src="https://img.shields.io/badge/-Internet Explorer-0076D6?style=for-the-badge&logo=InternetExplorer&logoColor=FFFFFF" alt="Internet Explorer" /> -->
+			<img src="https://img.shields.io/badge/-Microsoft Edge-0078D7?style=for-the-badge&logo=MicrosoftEdge&logoColor=FFFFFF" alt="Microsoft Edge" />
+			<img src="https://img.shields.io/badge/-Google Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=FFFFFF" alt="Google Chrome" />
+			<img src="https://img.shields.io/badge/-Firefox Browser-FF7139?style=for-the-badge&logo=FirefoxBrowser&logoColor=FFFFFF" alt="Firefox Browser" />
+			<img src="https://img.shields.io/badge/-Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=FFFFFF" alt="Opera" />
+			<img src="https://img.shields.io/badge/-Safari-000000?style=for-the-badge&logo=Safari&logoColor=FFFFFF" alt="Safari" />
+	</div>
+ 
+##
+
+<h1 align='center' > MY PROJECTS </h1>
 <h2  align="center">BACKGROUND GRADIENT ANIMATE</h2> 
 
 <div align='center' >
