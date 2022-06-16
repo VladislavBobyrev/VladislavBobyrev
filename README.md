@@ -40,7 +40,7 @@
  <img src="https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=FFFFFF" alt="Chart.js" />
  <img src="https://img.shields.io/badge/-Vue-3FB280?style=for-the-badge&logo=Vue.js&logoColor=FFFFFF" alt="Vuejs" />
  <img src="https://img.shields.io/badge/-Vuex-3FB280?style=for-the-badge&logo=Vuex&logoColor=FFFFFF" alt="Vuex" />
- <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=333333" alt="Firebase" />
+<!--  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=333333" alt="Firebase" /> -->
  </div>  
 </details>
 
@@ -200,7 +200,6 @@
 
 <br> -->
 </details> 
-  ##
  
 <a href="https://github.com/VladislavBobyrev/"><img alt="https://github.com/VladislavBobyrev/" src="https://activity-graph.herokuapp.com/graph?username=VladislavBobyrev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
