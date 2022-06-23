@@ -1,7 +1,6 @@
 <h1 align='center' >  I AM  <img width="20" height="20" title="Vuejs" alt="vuejs" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"/>LADISLAV BOBYREV MY  PURPOSE ⬇️ </h1>
 <!-- <div align='center' ><img alt="Sass" src="https://tgram.ru/wiki/stickers/img/ResistanceDog/gif/13.gif" /></div>* -->
-
-
+ 
 <!-- <div align='center' ><img alt="Sass" src="https://tgram.ru/wiki/stickers/img/ResistanceDog/gif/19.gif" /></div> -->
 <h3 align='center'>
  <img width="20" height="20" title="Vuejs" alt="vuejs" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"/> 
@@ -87,11 +86,11 @@
 
 </div>
 
-<h2  align="center">TYPESCRIPT LIKE USERS</h2> 
+<h2  align="center">SHOP TYPESCRIPT VUE 3</h2> 
 
 <br>
 
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-typestript-users/blob/main/readme.gif)
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-shop/blob/main/README/readme.gif)
 
 <h2  align="center">MAGIC SCROLL</h2> 
 
@@ -101,7 +100,7 @@
 
 <h2  align="center">VUE ONLINE BANK</h2> 
 
-<div align='center' >
+<div align='center'>
 <br>
   
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-online-bank/blob/main/readme.gif)
