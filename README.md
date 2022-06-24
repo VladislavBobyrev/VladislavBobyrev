@@ -1,4 +1,8 @@
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=welcome%20to%20my%20page&fontSize=80&animation=fadeIn&fontAlignY=32&desc=%22Well%20done%20is%20better%20than%20well%20said.%22&descAlignY=55&descAlign=76" width="100%">
+ 
 <h1 align='center' >  I AM  <img width="20" height="20" title="Vuejs" alt="vuejs" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"/>LADISLAV BOBYREV MY  PURPOSE ⬇️ </h1>
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
+
 <!-- <div align='center' ><img alt="Sass" src="https://tgram.ru/wiki/stickers/img/ResistanceDog/gif/13.gif" /></div>* -->
  
 <!-- <div align='center' ><img alt="Sass" src="https://tgram.ru/wiki/stickers/img/ResistanceDog/gif/19.gif" /></div> -->
@@ -31,8 +35,10 @@
 <!-- 	<img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=FFFFFF" alt="VirtualBox" /> -->
  </div>
 </details>
- 
-<details open>
+ <a href='https://мvladislavbobyrev.web.app'> 
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" max-width="30%" width="25%" align="right" alt="Computador Queiroz-Dv">
+</a>
+<details >
   <summary >Frontend</summary>
 <div align='center'>
  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF" alt="TypeScript" />
@@ -75,7 +81,7 @@
  
  
 <details open>
-  <summary >MY PROJECTS</summary>
+  <summary >MY PROJECTS </summary>
 <h1 align='center' >  </h1>
 <h2  align="center">BACKGROUND GRADIENT ANIMATE</h2> 
 
@@ -199,11 +205,15 @@
 
 <br> -->
 </details> 
- 
 <a href="https://github.com/VladislavBobyrev/"><img alt="https://github.com/VladislavBobyrev/" src="https://activity-graph.herokuapp.com/graph?username=VladislavBobyrev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<!-- <div align=center>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="10%" >
+</div> -->
 
 <br>
 <h1 align='center' > CONTACTS </h1>
+
 <!-- <div align='center' ><img alt="Sass" src="https://tgram.ru/wiki/stickers/img/ResistanceDog/gif/21.gif" /></div> -->
 <div align='center'> 
 
