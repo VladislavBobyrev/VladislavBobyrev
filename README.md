@@ -92,6 +92,12 @@
 
 </div>
 
+<h2  align="center">ANALYTICS  VUE TYPESCRIPT</h2> 
+
+<br>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/analytics-vue/blob/main/README/readme.gif)
+
 <h2  align="center">SHOP TYPESCRIPT VUE 3</h2> 
 
 <br>
