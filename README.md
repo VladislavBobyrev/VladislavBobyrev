@@ -199,6 +199,13 @@
 
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/card-backdrop/blob/main/README/readme.gif)
 
+<h2  align="center">HOVER TEXT BLUR</h2> 
+
+<br>
+
+![Lax 2.0 Gif](
+https://github.com/VladislavBobyrev/hover-text/blob/main/README/readme.gif)
+
 <!-- <h2  align="center">VUE 3 ALERT</h2> 
 <div align='center' >
 <br>
