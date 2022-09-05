@@ -92,6 +92,13 @@
 
 </div>
 
+
+<h2  align="center">@KEYFRAME CSS</h2> 
+
+<br>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/loader-line/blob/main/README/readme.gif)
+
 <h2  align="center">ANALYTICS  VUE TYPESCRIPT</h2> 
 
 <br>
