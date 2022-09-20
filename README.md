@@ -83,15 +83,21 @@
 <details open>
   <summary >MY PROJECTS </summary>
 <h1 align='center' >  </h1>
+
+<h2  align="center">PARALLAX</h2> 
+
+<br>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/parallax/blob/main/README/readme.gif)
+
 <h2  align="center">BACKGROUND GRADIENT ANIMATE</h2> 
 
 <div align='center' >
 <br>
-  
+
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/background-gradient-amimate/blob/main/README/readme.gif)
 
 </div>
-
 
 <h2  align="center">@KEYFRAME CSS</h2> 
 
