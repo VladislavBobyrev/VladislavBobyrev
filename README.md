@@ -82,15 +82,21 @@
  
 <details open>
   <summary >MY PROJECTS </summary>
-<h1 align='center' >  </h1>
 
+<h2  align="center">KAZINO DULKAN</h2> 
+
+<br>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/kazino-dulkan/blob/main/README/readme.jpg)
+	
 <h2  align="center">PARALLAX</h2> 
 
 <br>
 
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/parallax/blob/main/README/readme.gif)
 
-<h2  align="center">BACKGROUND GRADIENT ANIMATE</h2> 
+
+	<h2  align="center">BACKGROUND GRADIENT ANIMATE</h2> 
 
 <div align='center' >
 <br>
