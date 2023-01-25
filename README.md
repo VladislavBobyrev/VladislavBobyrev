@@ -83,6 +83,12 @@
 <details open>
   <summary >MY PROJECTS </summary>
 
+<h2  align="center">BEM BRANDING</h2> 
+
+<br>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/branding-example/blob/main/readme/readme.jpg)
+	
 <h2  align="center">KAZINO DULKAN</h2> 
 
 <br>
