@@ -89,11 +89,13 @@
 
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/branding-example/blob/main/readme/readme.jpg)
 	
-<h2  align="center">KAZINO DULKAN</h2> 
+<h2  align="center">LANDING</h2> 
 
 <br>
 
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/kazino-dulkan/blob/main/README/readme.jpg)
+	
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/coffe-landing/blob/main/readme/readme.jpg)
+	
 	
 <h2  align="center">PARALLAX</h2> 
 
@@ -102,7 +104,7 @@
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/parallax/blob/main/README/readme.gif)
 
 
-	<h2  align="center">BACKGROUND GRADIENT ANIMATE</h2> 
+<h2 align="center"> BACKGROUND GRADIENT ANIMATE</h2> 
 
 <div align='center' >
 <br>
@@ -111,11 +113,11 @@
 
 </div>
 
-<h2  align="center">@KEYFRAME CSS</h2> 
+<!-- <h2  align="center">@KEYFRAME CSS</h2> 
 
 <br>
 
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/loader-line/blob/main/README/readme.gif)
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/loader-line/blob/main/README/readme.gif) -->
 
 <h2  align="center">ANALYTICS  VUE TYPESCRIPT</h2> 
 
@@ -129,7 +131,7 @@
 
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-shop/blob/main/README/readme.gif)
 
-<h2  align="center">MAGIC SCROLL</h2> 
+<!-- <h2  align="center">MAGIC SCROLL</h2> 
 
 <br>
 
@@ -141,7 +143,7 @@
 <br>
   
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-online-bank/blob/main/readme.gif)
-</div> 
+</div>  -->
 
 <h2  align="center">SEARCH CUSTOM</h2> 
 
@@ -152,12 +154,12 @@
 
 </div>
 
-
+<!-- 
 <h2  align="center">LOADER GRADIENT</h2> 
 
 <br>
 
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/cercle-gradient/blob/main/readme.gif)
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/cercle-gradient/blob/main/readme.gif) -->
 
 
 <h2  align="center">ANIMATIONS + SVG FILTER</h2> 
@@ -176,15 +178,15 @@
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/morphing-svg-animejs/blob/main/morph.gif)
 </div> 
 
-<h2  align="center">SEARCH SCALE</h2> 
+<!-- <h2  align="center">SEARCH SCALE</h2> 
 
 <div align='center' >
 <br>
   
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/search-scale/blob/main/README/readme.gif)
-</div> 
+</div>  -->
 
-<h2  align="center">VUE LOGIN FORM</h2> 
+<!-- <h2  align="center">VUE LOGIN FORM</h2> 
 
 <div align='center' >
 <br>
@@ -194,9 +196,9 @@
 
 <h2  align="center">VUE TASCS</h2> 
 
-<br>
+<br> 
 
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-task-manege/blob/main/readme.gif)
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/vue-task-manege/blob/main/readme.gif) -->
 
 <h2  align="center">STYLE THEME</h2> 
 
@@ -206,11 +208,11 @@
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/colors-themes/blob/main/readme.gif)
 </div> 
 
-<h2  align="center">BUTTON SHADOW LIGHT</h2> 
+<!-- <h2  align="center">BUTTON SHADOW LIGHT</h2> 
 
 <br>
 
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/button-shadow-light/blob/main/README/readme.gif)
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/button-shadow-light/blob/main/README/readme.gif) -->
 
 <h2  align="center">SVG FILTERS</h2> 
 
@@ -218,7 +220,7 @@
 
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/svg-filters/blob/main/REAMDE/readme.gif)
 
-<h2  align="center">CSS CARD BACKDROP</h2> 
+<!-- <h2  align="center">CSS CARD BACKDROP</h2> 
 
 <br>
 
@@ -229,7 +231,7 @@
 <br>
 
 ![Lax 2.0 Gif](
-https://github.com/VladislavBobyrev/hover-text/blob/main/README/readme.gif)
+https://github.com/VladislavBobyrev/hover-text/blob/main/README/readme.gif) -->
 
 <!-- <h2  align="center">VUE 3 ALERT</h2> 
 <div align='center' >
@@ -243,7 +245,7 @@ https://github.com/VladislavBobyrev/hover-text/blob/main/README/readme.gif)
 
 <br> -->
 </details> 
-<a href="https://github.com/VladislavBobyrev/"><img alt="https://github.com/VladislavBobyrev/" src="https://activity-graph.herokuapp.com/graph?username=VladislavBobyrev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/VladislavBobyrev/"><img alt="https://github.com/VladislavBobyrev/" src="https://activity-graph.herokuapp.com/graph?username=VladislavBobyrev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <!-- <div align=center>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="10%" >
