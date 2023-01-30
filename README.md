@@ -133,19 +133,20 @@
 
 <h2  align="center">SEARCH CUSTOM</h2> 
 
-<div align='center' >
+
 <br>
-  
+<h3><a href="https://vladislavbobyrev.github.io/search-custom/" target="_blank">🌟СМОТРЕТЬ ДЕМО ВЕРСИЮ🌟</a></h3>
+	
 ![Lax 2.0 Gif]( https://github.com/VladislavBobyrev/search-custom/blob/main/README/readme.gif)
 
-</div>
 
-<!-- 
+
+
 <h2  align="center">LOADER GRADIENT</h2> 
 
 <br>
 
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/cercle-gradient/blob/main/readme.gif) -->
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/cercle-gradient/blob/main/readme.gif)
 
 
 <h2  align="center">ANIMATIONS + SVG FILTER</h2> 
