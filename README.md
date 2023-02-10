@@ -61,6 +61,13 @@
  
 <details open>
   <summary >MY PROJECTS </summary>
+
+<h2  align="center">GSAP EXAMPLE</h2> 
+
+<h3><a href="https://github.com/VladislavBobyrev/Fashion-example" target="_blank">🌟СМОТРЕТЬ ДЕМО ВЕРСИЮ🌟</a> </h3>
+<br>
+
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/Fashion-example/blob/main/readme/readme.gif)
 	
 <h2  align="center">SITE  FOODHUB</h2> 
 
