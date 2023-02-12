@@ -187,12 +187,19 @@
 
 ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/svg-filters/blob/main/REAMDE/readme.gif)
 
+<h2  align="center">АДАПТИВНЫЕ ПИСЬМА + АВТО ТЕМА</h2> 
+
+<br>
+<div align='center' style='display: inline-block'>
+ <img src="https://github.com/VladislavBobyrev/email-letter/blob/main/readme/readme.png" max-width="100%" width="50%" align="left" alt="email">
+ <img src="https://github.com/VladislavBobyrev/email-letter/blob/main/readme/dark.jpg" max-width="30%" width="33%" align="center" alt="email">
+</div>
 </details> 
 
 <br>
 <h1 align='center' > CONTACTS </h1>
 
-<div align='center'> 
+<div align='center' width='100%'> 
 
 
 [![TELEGRAMM](https://img.shields.io/badge/telegramm-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://t.me/VladislavBobyrev)
